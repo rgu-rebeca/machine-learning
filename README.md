@@ -9,7 +9,7 @@ Más allá de obtener un buen resultado numérico, el foco principal del proyect
 - La **correcta preparación de los datos**
 - La **elección razonada de modelos y métricas**
 
----
+
 
 ## 📊 Conjunto de datos
 El dataset utilizado procede de **Airbnb** y ha sido obtenido mediante técnicas de *web scraping*.  
@@ -21,7 +21,7 @@ Se trata de **datos reales**, por lo que contiene:
 
 Esto hace necesario un análisis y limpieza de datos más cuidadosos que en datasets sintéticos.
 
----
+
 
 ## 🧠 Metodología seguida
 
@@ -66,7 +66,7 @@ El proyecto se ha desarrollado de forma **incremental**, comenzando por solucion
   - RMSE
 - Comparación entre modelos para seleccionar el más adecuado
 
----
+
 
 ## 📈 Resultados
 Los resultados obtenidos son **razonables**, teniendo en cuenta la complejidad y la naturaleza real del dataset.  
@@ -75,13 +75,13 @@ El énfasis del proyecto no está en maximizar la métrica, sino en garantizar:
 - Ausencia de errores conceptuales
 - Correcta separación entre train y test
 
----
+
 
 ## 📝 Conclusiones
 Este proyecto demuestra cómo abordar un problema real de Machine Learning de forma estructurada, desde el análisis exploratorio hasta la evaluación del modelo.  
 La práctica pone de manifiesto la importancia de la **limpieza de datos**, la **selección de variables** y la **comparación de modelos**, más allá de la métrica final obtenida.
 
----
+
 
 ## 🛠️ Tecnologías utilizadas
 - Python
